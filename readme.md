@@ -17,5 +17,5 @@ For a more comprehensive list of ETFs, please see the following: https://etfdb.c
 - Integration with official APIs for real-time data.
 - Enhanced analytics and visualization tools.
 
-Please see the live Streamlit demo at: https://etfrecommendationengine.streamlit.app
-Note that this project is built as a PoC.
+Please see the live Streamlit demo at: https://etfrecommendationengine.streamlit.app.
+Note that this project was built as a PoC.
