@@ -1,0 +1,4 @@
+streamlit
+openai
+investor_profile
+logging
